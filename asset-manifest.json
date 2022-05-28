@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactKeepNotes/static/css/main.68ccd394.css",
+    "main.js": "/reactKeepNotes/static/js/main.34704f05.js",
+    "static/media/books.png": "/reactKeepNotes/static/media/books.c7bd921e34735630cb55.png",
+    "index.html": "/reactKeepNotes/index.html",
+    "main.68ccd394.css.map": "/reactKeepNotes/static/css/main.68ccd394.css.map",
+    "main.34704f05.js.map": "/reactKeepNotes/static/js/main.34704f05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68ccd394.css",
+    "static/js/main.34704f05.js"
+  ]
+}
